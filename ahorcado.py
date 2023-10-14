@@ -8,7 +8,7 @@ palabra_incognita = random.choice(lista_palabras)
 print(palabra_incognita)
 
 '''inicializo intentos y lista de letras correctas e incorrectas'''
-intentos = 5
+intentos = 6
 letras_adivinadas = []
 letras_incorrectas = []
 
