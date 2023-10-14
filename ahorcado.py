@@ -5,7 +5,7 @@ lista_palabras = ["chocolate", "elefante", "guitarra", "aventura", "manzana", "u
 
 palabra_incognita = random.choice(lista_palabras)
 
-print(palabra_incognita)
+#print(palabra_incognita)
 
 '''inicializo intentos y lista de letras correctas e incorrectas'''
 intentos = 6
